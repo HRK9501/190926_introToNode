@@ -1,0 +1,20 @@
+{
+  "name": "190926_introToNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRK9501/190926_introToNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRK9501/190926_introToNode/issues"
+  },
+  "homepage": "https://github.com/HRK9501/190926_introToNode#readme"
+}
